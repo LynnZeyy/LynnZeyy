@@ -5,23 +5,8 @@
 
 <p align="center">
 
-- My name is Lynn
-
-- I am 18 years old 
-
-- I am Not programmer
- 
-- I am like Anime
-</p>
-
-------
-
 ## ```FOLLOW ALL SOSIALMEDIA ME```
 <p align="center">
-<a href="https://wa.me/6283890585717"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="https://wa.me/6283830815715"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 <a href="https://youtube.com/@xiee0"><img src="https://img.shields.io/badge/YouTube Lynn-ff0000?style=for-the-badge&logo=youtube&logoColor=ff000000&link=https://youtube.com/@xiee0" /><br>
 </p>
-
-## ```DONASI```
-
-- [`SAWERIA`](https://saweria.co/ZeynaZeycaa)
